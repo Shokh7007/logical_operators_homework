@@ -11,4 +11,4 @@ def main(a):
     e=a%100//10
     f=a%10
     return a>b>c>d>e
-print(main(657321))
+print(main(98754))
